@@ -20,3 +20,12 @@ puts dates_array[1]
 puts dates_array[2]
 puts dates_array[3]
 puts dates_array[4]
+
+puts 5 * 4 * 3 * 2 * 1
+puts 6 * 5 * 4 * 3 * 2 * 1
+puts 7 * 6 * 5 * 4 * 3 * 2 * 1
+puts 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
+
+puts 4.3 ** 2
+puts 5.4 ** 2
+puts 6.5 ** 2
